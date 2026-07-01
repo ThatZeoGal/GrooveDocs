@@ -3,9 +3,9 @@
 These commands can be used in any scene.
 
 ## Commands
-### `REST()` - Hoop
+### `FUN_7100514B90()` - Rest
 _Function address: 0x7100514b90_
 ```
-REST(ticks);
+Usage - to be added when tools are developed
 ```
-Rest for `ticks` amount of ticks. 480 ticks = 1 beat.
+Rest for a certain amount of ticks. 480 ticks = 1 beat.
