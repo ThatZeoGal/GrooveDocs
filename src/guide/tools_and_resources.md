@@ -12,4 +12,4 @@ Below are tools and resources you can use to mod Rhythm Heaven Groove.
 - [TEXTool](https://github.com/conhlee/textool): A command-line tool for decoding and encoding tex texture files
 
 ## Custom Levels
-- [TempoDough](https://github.com/ThatZeoGal/TempoDough): A command-line tool for creating wavmark (wvb) tempo files
+- [Metronome](https://github.com/ThatZeoGal/Metronome): A command-line tool for creating wavmark (wvb) tempo files
